@@ -252,6 +252,16 @@
     .menu-spacing {
         display: none;
     }
+    
+    
+@media (max-width: 390px) {
+
+    .responsive-table {
+        width: 100%;
+    }
+}
+
+
 
 
 
