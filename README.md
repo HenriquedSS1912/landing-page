@@ -1,14 +1,14 @@
 # Landing Page
 
 ## ⚙️ Sobre o projeto
-Nesse projeto desenvolvi minha primeira Landing Page durante um curso de HTML & CSS, onde o principal objetivo era colocar em pratica o que foi aprendido ao longo do curso. O site possui algumas sessoes, como a Intro, Galery, Work e Contact. 
+Neste projeto desenvolvi minha primeira Landing Page durante um curso de HTML & CSS, onde o principal objetivo era colocar em prática o que foi aprendido ao longo do curso. O site possui algumas sessões, como a Intro, Galery, Work e Contact.
 
 ## 📦 Desenvolvimento
 
 * Na sessão de Galery eu utilizei o site Unsplash para gerar imagens aleatórias, e adicionei a propriedade transform do CSS, assim ao passar o mouse a imagem é dimensionada.
-* Na sessão de Pricing adicionei uma tabela com alguns "valores". E para que o conteudo da pagina não fosse cortado acrescentei o overflow, dessarte a tabela possui as barras de rolagem deixando assim a tabela responsiva.
+* Na sessão de Pricing adicionei uma tabela com alguns "valores". E para que o conteúdo da pagina não fosse cortado acrescentei o overflow, dessarte a tabela possui as barras de rolagem deixando assim a tabela responsiva.
 * Deixei o site responsivo com as Media Queries, possibilitando dar uma aparência diferente para cada resolução detectada.
-* Implementei o botão "Back to top", onde o usuário que estiver lendo o site pode ir para ao inicio.
+* Implementei o botão "Back to top", onde o usuário que estiver lendo o site pode ir para ao início.
 
 ## 🛠️ Construído com
 
